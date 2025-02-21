@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 📫 How to reach me: d.paul.couture@gmail.com
 - 🌼 I'm interested in robotics, formula 1, soccer and snowboarding
 - ⚡ Website: https://domcouture.github.io/
 <!--
